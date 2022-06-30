@@ -20,6 +20,8 @@
           <div class="navbar-nav">
             <a class="nav-link" aria-current="page" href="{{ route('home') }}">Home</a>
             <a class="nav-link" aria-current="page" href="{{ route('comics.index') }}">Fumetti</a>
+            <a class="nav-link" aria-current="page" href="{{ route('comics.create') }}">Crea Fumetto</a>
+
           </div>
         </div>
       </div>
